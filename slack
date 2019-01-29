@@ -24,6 +24,8 @@ else:
     channel = '#monitoring'
 bot_name = "CMKBot"
 
+proxies = {}
+# if a proxy is requied, uncomment ...
 #proxies = {
 #          "http"  : "http://proxy:3128",
 #          "https" : "http://proxy:3128"
