@@ -2,7 +2,7 @@
 
 ## Introduction
 
-_Update 2019-01-02 - Due to no longer working in a check_mk/slack environment I'm not best placed to maintain this - as of this update this script still works AFAIK, but I won't be able to accept any commits/updates going forward unless I land myself back in a similar environment!_
+This is a fork of rmblake's notification script found at https://github.com/rmblake/check_mk-slack
 
 This is a script designed to bounce Check_MK/OMD notifications 
 into a Slack Channel, using Slacks Incoming Webhooks API.
